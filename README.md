@@ -14,3 +14,7 @@
 - yolov5의 학습 기능 Ai 프로세스를 가상 환경에 복제
 - Yolov5에서 준비된 데이터 세트 학습
 - 테스트 실행
+![Image001](https://raw.githubusercontent.com/hyunnuuu/Parcel-Box/main/1.png)
+![Image002](https://raw.githubusercontent.com/hyunnuuu/Parcel-Box/main/2.png)
+![Image003](https://raw.githubusercontent.com/hyunnuuu/Parcel-Box/main/3.png)
+![Image004](https://raw.githubusercontent.com/hyunnuuu/Parcel-Box/main/4.png)
