@@ -1,0 +1,4 @@
+C:/Users/user/Desktop/DeliveryBox/yolov5/dataset/valid/images\IMG_6819_jpg.rf.e221a45e20b91a86f55fa0fd2b7e41f8.jpg
+C:/Users/user/Desktop/DeliveryBox/yolov5/dataset/valid/images\package_4_jpg.rf.9d110b2a9b39aa1a36e8f3f477942fde.jpg
+C:/Users/user/Desktop/DeliveryBox/yolov5/dataset/valid/images\PXL_20201101_154110239_jpg.rf.d8bea6a55a49e9dee52849093986ef39.jpg
+C:/Users/user/Desktop/DeliveryBox/yolov5/dataset/valid/images\PXL_20201105_173151012_jpg.rf.fcfa8c13a9aa59b737e18ca01136a0b7.jpg
